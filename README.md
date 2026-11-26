@@ -217,7 +217,7 @@ Recall is particularly important because missed positive cases are an important 
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/aryan08123/smart-flood-prediction
 ```
 
 ### Step 2: Navigate to the project folder
